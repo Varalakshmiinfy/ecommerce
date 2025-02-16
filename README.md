@@ -1,1 +1,1 @@
-myproject.md
+sample.md
